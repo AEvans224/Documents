@@ -1,0 +1,16 @@
+{
+    "python-envs.pythonProjects": [
+        {
+            "path": "pwm_hat_servosg90.py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip",
+            "workspace": "learningpi"
+        },
+        {
+            "path": ".",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
+        }
+    ],
+    "python.defaultInterpreterPath": "$bb8/.venv/bin/python"
+}
