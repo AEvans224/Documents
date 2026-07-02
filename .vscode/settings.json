@@ -12,5 +12,5 @@
             "packageManager": "ms-python.python:pip"
         }
     ],
-    "python.defaultInterpreterPath": "$bb8/.venv/bin/python"
+    "python.defaultInterpreterPath": "$/home/rey-engineer/bb8/.venv/bin/python"
 }
